@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TsybulskaAnna/goit-react-hw-04-feedback/static/css/main.390a4ee6.css",
+    "main.js": "/TsybulskaAnna/goit-react-hw-04-feedback/static/js/main.40badb55.js",
+    "index.html": "/TsybulskaAnna/goit-react-hw-04-feedback/index.html",
+    "main.390a4ee6.css.map": "/TsybulskaAnna/goit-react-hw-04-feedback/static/css/main.390a4ee6.css.map",
+    "main.40badb55.js.map": "/TsybulskaAnna/goit-react-hw-04-feedback/static/js/main.40badb55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390a4ee6.css",
+    "static/js/main.40badb55.js"
+  ]
+}
