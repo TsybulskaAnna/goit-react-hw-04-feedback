@@ -11,6 +11,7 @@ function FeedbackOptions({ options, onLeaveFeedback }) {
   return <>{elements}</>;
 }
 
+
 export default FeedbackOptions;
 
 FeedbackOptions.propTypes = {
